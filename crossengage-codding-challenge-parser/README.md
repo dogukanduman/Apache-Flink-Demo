@@ -8,6 +8,8 @@ Parser Module is responsible for:
 - Produce messages which contain user info for Message Sender Module.
  
 ```
+P:Producer
+C:Consumer
 +-------------+     +-------------+     +-------------+  
 |             |     |             |     |             |=>SMS
 |             |     |             |     |   MESSAGE   |
@@ -17,7 +19,7 @@ Parser Module is responsible for:
 +-------------+     +-------------+     +-------------+
  File -> String      String -> User     User -> Message
         |             |        |           |
-   t:f_1000(P)  t:f_1000(C) t:1001(P)   t:1001(C
+   t:f_1000(P)  t:f_1000(C) t:1001(P)   t:1001(C)
         |             |        |           |
         +---------------------------------------+  
         |                                       |
