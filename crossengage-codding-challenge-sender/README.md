@@ -7,6 +7,8 @@ Sender Module is responsible for:
 - Sending SMS and EMAIL to users who want to notify
  
 ```
+P:Producer
+C:Consumer
 +-------------+     +-------------+     +-------------+  
 |             |     |             |     |             |=>SMS
 |             |     |             |     |   MESSAGE   |
@@ -16,7 +18,7 @@ Sender Module is responsible for:
 +-------------+     +-------------+     +-------------+
  File -> String      String -> User     User -> Message
         |             |        |           |
-   t:f_1000(P)  t:f_1000(C) t:1001(P)   t:1001(C
+   t:f_1000(P)  t:f_1000(C) t:1001(P)   t:1001(C)
         |             |        |           |
         +---------------------------------------+  
         |                                       |
