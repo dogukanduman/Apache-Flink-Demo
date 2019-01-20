@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="469d0d67-f618-4728-8d4f-51edabe76ffe" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParserApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/ParserApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlinkProducerConsumerConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/FlinkProducerConsumerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="566">
+              <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="67" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutputSelector.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.5.0/flink-streaming-java_2.11-1.5.0.jar!/org/apache/flink/streaming/api/collector/selector/OutputSelector.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <marker date="1541936854326" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1541936854326" expanded="false" signature="173:245" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamExecutionEnvironment.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.5.0/flink-streaming-java_2.11-1.5.0.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="76" column="22" lean-forward="false" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+              <folding>
+                <marker date="1541936854326" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1541936854326" expanded="false" signature="166:4140" ph="..." />
+                <marker date="1541936854326" expanded="true" signature="5070:5182" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="5222:5233" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="5252:5258" ph=" }" />
+                <marker date="1541936854326" expanded="false" signature="5331:5342" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="5364:5370" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="5442:5519" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="5597:5853" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="5886:5897" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="5933:5939" ph=" }" />
+                <marker date="1541936854326" expanded="false" signature="5975:5986" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="6025:6031" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="6108:6346" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="6382:6393" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="6419:6425" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="6511:6579" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="6639:6650" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="6680:6686" ph=" }" />
+                <marker date="1541936854326" expanded="false" signature="6737:6748" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="6774:6780" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="6855:6943" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="7042:7185" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="7191:7209" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="7214:7245" ph="@{...}" />
+                <marker date="1541936854326" expanded="true" signature="7358:7558" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="7564:7582" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="7587:7618" ph="@{...}" />
+                <marker date="1541936854326" expanded="true" signature="7679:7763" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="7804:7815" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="7865:7871" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="7877:7895" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="7900:7931" ph="@{...}" />
+                <marker date="1541936854326" expanded="false" signature="7973:7984" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="8033:8039" ph=" }" />
+                <marker date="1541936854326" expanded="false" signature="8092:8103" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="8152:8158" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="8256:8370" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="8376:8394" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="8399:8430" ph="@{...}" />
+                <marker date="1541936854326" expanded="true" signature="8515:8629" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="8692:8703" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="8735:8741" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="8857:8934" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="9016:9027" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="9067:9073" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="9079:9097" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="9102:9133" ph="@{...}" />
+                <marker date="1541936854326" expanded="true" signature="9208:9290" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="9296:9314" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="9319:9350" ph="@{...}" />
+                <marker date="1541936854326" expanded="false" signature="9395:9406" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="9455:9461" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="9574:9645" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="9751:9827" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="9946:10023" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="10132:10214" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="10260:10672" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="10773:11093" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="11174:11185" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="11216:11222" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="11295:11556" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="11646:12333" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="12440:13109" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="13187:14105" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="14214:14728" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="14821:14903" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="15010:15235" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="15350:15444" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="15573:15674" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="15825:15933" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="16000:16011" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="16055:16061" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="16149:16704" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="16805:16903" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="16909:16927" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="16932:16963" ph="@{...}" />
+                <marker date="1541936854326" expanded="true" signature="17131:17720" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="17886:18430" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="18436:18454" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="18575:18809" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="19013:19428" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="19434:19452" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="19580:19678" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="19813:19943" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="19949:19967" ph="/**...*/" />
+                <marker date="1541936854326" expanded="true" signature="20080:20156" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="20276:20352" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="20454:20521" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="20627:20728" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="20865:21282" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="21419:21593" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="21785:22772" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="22853:22918" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="23018:23101" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="23213:23288" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="23419:24456" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="24594:24632" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="24691:24750" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="24885:25153" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="25191:25202" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="25256:25262" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="25306:25489" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="25573:25718" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="25791:26396" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="26464:26535" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="26618:26698" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="26810:27250" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="27369:27700" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="27814:27887" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="28018:28175" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="28317:28404" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="28476:28487" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="28518:28524" ph=" }" />
+                <marker date="1541936854326" expanded="false" signature="28612:28623" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="28661:28667" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="28763:28811" ph="{...}" />
+                <marker date="1541936854326" expanded="false" signature="28864:28875" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="28908:28914" ph=" }" />
+                <marker date="1541936854326" expanded="false" signature="28980:28991" ph=" { " />
+                <marker date="1541936854326" expanded="false" signature="29038:29044" ph=" }" />
+                <marker date="1541936854326" expanded="true" signature="29131:29233" ph="{...}" />
+                <marker date="1541936854326" expanded="true" signature="29246:29404" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/domain/ContactType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserSerializationSchema.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/UserSerializationSchema.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserRepositoryTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/crossengage/UserRepositoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/crossengage/UserRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/FileReaderApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/FlinkProducerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/filereader/FlinkProducerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/FlinkProducerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/asda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/UserDeserializationSchema.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/UserSerializationSchema.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/ContactType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/FlinkProducerConsumerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/domain/ContactType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/UserSerializationSchema.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/FlinkProducerConsumerConfig.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="challenge-parser" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="challenge-parser" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="315" />
+    <option name="y" value="246" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crossengage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crossengage-codding-challenge-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resource" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="ParserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.crossengage.parser.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crossengage.parser.ParserApplication" />
+      <module name="challenge" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="469d0d67-f618-4728-8d4f-51edabe76ffe" name="Default" comment="" />
+      <created>1541950689428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541950689428</updated>
+      <workItem from="1541950691842" duration="2584000" />
+      <workItem from="1541953353978" duration="19940000" />
+      <workItem from="1542103280486" duration="746000" />
+      <workItem from="1542104066818" duration="1143000" />
+      <workItem from="1542106066346" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24448000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="315" y="246" width="1920" height="1057" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18690096" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3226837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="new Scanner(new File(path)" />
+        <watch expression="new File(path)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crossengage/UserRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/FlinkProducerConsumerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="67" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/ParserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/FlinkProducerConsumerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="119" column="37" lean-forward="false" selection-start-line="119" selection-start-column="37" selection-end-line="119" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.5.0/flink-streaming-java_2.11-1.5.0.jar!/org/apache/flink/streaming/api/collector/selector/OutputSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1541936854326" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1541936854326" expanded="false" signature="173:245" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.5.0/flink-streaming-java_2.11-1.5.0.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="76" column="22" lean-forward="false" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+          <folding>
+            <marker date="1541936854326" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1541936854326" expanded="false" signature="166:4140" ph="..." />
+            <marker date="1541936854326" expanded="true" signature="5070:5182" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="5222:5233" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="5252:5258" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="5331:5342" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="5364:5370" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="5442:5519" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="5597:5853" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="5886:5897" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="5933:5939" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="5975:5986" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="6025:6031" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="6108:6346" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="6382:6393" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="6419:6425" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="6511:6579" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="6639:6650" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="6680:6686" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="6737:6748" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="6774:6780" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="6855:6943" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="7042:7185" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="7191:7209" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="7214:7245" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="7358:7558" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="7564:7582" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="7587:7618" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="7679:7763" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="7804:7815" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="7865:7871" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="7877:7895" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="7900:7931" ph="@{...}" />
+            <marker date="1541936854326" expanded="false" signature="7973:7984" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="8033:8039" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="8092:8103" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="8152:8158" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="8256:8370" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="8376:8394" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="8399:8430" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="8515:8629" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="8692:8703" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="8735:8741" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="8857:8934" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="9016:9027" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="9067:9073" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="9079:9097" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="9102:9133" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="9208:9290" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="9296:9314" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="9319:9350" ph="@{...}" />
+            <marker date="1541936854326" expanded="false" signature="9395:9406" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="9455:9461" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="9574:9645" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="9751:9827" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="9946:10023" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="10132:10214" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="10260:10672" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="10773:11093" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="11174:11185" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="11216:11222" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="11295:11556" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="11646:12333" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="12440:13109" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="13187:14105" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="14214:14728" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="14821:14903" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="15010:15235" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="15350:15444" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="15573:15674" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="15825:15933" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="16000:16011" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="16055:16061" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="16149:16704" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="16805:16903" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="16909:16927" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="16932:16963" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="17131:17720" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="17886:18430" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="18436:18454" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="18575:18809" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="19013:19428" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="19434:19452" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="19580:19678" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="19813:19943" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="19949:19967" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="20080:20156" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="20276:20352" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="20454:20521" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="20627:20728" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="20865:21282" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="21419:21593" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="21785:22772" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="22853:22918" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="23018:23101" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="23213:23288" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="23419:24456" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="24594:24632" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="24691:24750" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="24885:25153" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="25191:25202" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="25256:25262" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="25306:25489" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="25573:25718" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="25791:26396" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="26464:26535" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="26618:26698" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="26810:27250" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="27369:27700" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="27814:27887" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="28018:28175" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="28317:28404" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="28476:28487" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="28518:28524" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="28612:28623" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="28661:28667" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="28763:28811" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="28864:28875" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="28908:28914" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="28980:28991" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="29038:29044" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="29131:29233" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="29246:29404" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/domain/ContactType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/UserSerializationSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crossengage/UserRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/ParserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.5.0/flink-streaming-java_2.11-1.5.0.jar!/org/apache/flink/streaming/api/collector/selector/OutputSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1541936854326" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1541936854326" expanded="false" signature="173:245" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.5.0/flink-core-1.5.0.jar!/org/apache/flink/api/common/functions/FilterFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/domain/ContactType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/UserSerializationSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/test_user_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/FlinkProducerConsumerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/ParserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_user_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/test_user_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crossengage/UserRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/FlinkProducerConsumerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_user_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/UserRepository.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.7/jackson-datatype-jsr310-2.9.7.jar!/com/fasterxml/jackson/datatype/jsr310/JavaTimeModule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="74" column="11" lean-forward="false" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="2420" column="20" lean-forward="false" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.5.0/flink-core-1.5.0.jar!/org/apache/flink/api/common/functions/FilterFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/test_user_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/UserSerializationSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.5.0/flink-streaming-java_2.11-1.5.0.jar!/org/apache/flink/streaming/api/collector/selector/OutputSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1541936854326" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1541936854326" expanded="false" signature="173:245" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.5.0/flink-streaming-java_2.11-1.5.0.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="76" column="22" lean-forward="false" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+          <folding>
+            <marker date="1541936854326" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1541936854326" expanded="false" signature="166:4140" ph="..." />
+            <marker date="1541936854326" expanded="true" signature="5070:5182" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="5222:5233" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="5252:5258" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="5331:5342" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="5364:5370" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="5442:5519" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="5597:5853" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="5886:5897" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="5933:5939" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="5975:5986" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="6025:6031" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="6108:6346" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="6382:6393" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="6419:6425" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="6511:6579" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="6639:6650" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="6680:6686" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="6737:6748" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="6774:6780" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="6855:6943" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="7042:7185" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="7191:7209" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="7214:7245" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="7358:7558" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="7564:7582" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="7587:7618" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="7679:7763" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="7804:7815" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="7865:7871" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="7877:7895" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="7900:7931" ph="@{...}" />
+            <marker date="1541936854326" expanded="false" signature="7973:7984" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="8033:8039" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="8092:8103" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="8152:8158" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="8256:8370" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="8376:8394" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="8399:8430" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="8515:8629" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="8692:8703" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="8735:8741" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="8857:8934" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="9016:9027" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="9067:9073" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="9079:9097" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="9102:9133" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="9208:9290" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="9296:9314" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="9319:9350" ph="@{...}" />
+            <marker date="1541936854326" expanded="false" signature="9395:9406" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="9455:9461" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="9574:9645" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="9751:9827" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="9946:10023" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="10132:10214" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="10260:10672" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="10773:11093" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="11174:11185" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="11216:11222" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="11295:11556" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="11646:12333" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="12440:13109" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="13187:14105" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="14214:14728" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="14821:14903" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="15010:15235" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="15350:15444" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="15573:15674" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="15825:15933" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="16000:16011" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="16055:16061" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="16149:16704" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="16805:16903" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="16909:16927" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="16932:16963" ph="@{...}" />
+            <marker date="1541936854326" expanded="true" signature="17131:17720" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="17886:18430" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="18436:18454" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="18575:18809" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="19013:19428" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="19434:19452" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="19580:19678" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="19813:19943" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="19949:19967" ph="/**...*/" />
+            <marker date="1541936854326" expanded="true" signature="20080:20156" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="20276:20352" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="20454:20521" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="20627:20728" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="20865:21282" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="21419:21593" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="21785:22772" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="22853:22918" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="23018:23101" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="23213:23288" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="23419:24456" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="24594:24632" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="24691:24750" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="24885:25153" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="25191:25202" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="25256:25262" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="25306:25489" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="25573:25718" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="25791:26396" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="26464:26535" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="26618:26698" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="26810:27250" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="27369:27700" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="27814:27887" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="28018:28175" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="28317:28404" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="28476:28487" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="28518:28524" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="28612:28623" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="28661:28667" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="28763:28811" ph="{...}" />
+            <marker date="1541936854326" expanded="false" signature="28864:28875" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="28908:28914" ph=" }" />
+            <marker date="1541936854326" expanded="false" signature="28980:28991" ph=" { " />
+            <marker date="1541936854326" expanded="false" signature="29038:29044" ph=" }" />
+            <marker date="1541936854326" expanded="true" signature="29131:29233" ph="{...}" />
+            <marker date="1541936854326" expanded="true" signature="29246:29404" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/domain/ContactType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/ParserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/crossengage/UserRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/crossengage/parser/config/FlinkProducerConsumerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="67" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
