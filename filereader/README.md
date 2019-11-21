@@ -1,5 +1,3 @@
-**Crossengage Coding Challenge** 
-
 **File Reader Module:**
 File Reader Module is responsible for:  
 - Reading file line by line.

@@ -1,11 +1,8 @@
-**Crossengage Coding Challenge** 
-
-**Parser Module:**
-Parser Module is responsible for:  
-- Consuming message from FileReader Module
-- Mapping Strings into User Class.
-- Filtering users who don't want to notify or there is no enough information to reach them.
-- Produce messages which contain user info for Message Sender Module.
+**Sender Module:**
+Sender Module is responsible for:  
+- Consuming users from Parser Module
+- Splitting DataStream into three SMS,EMAILS or ALL keywords 
+- Sending SMS and EMAIL to users who want to notify
  
 ```
 P:Producer
@@ -15,7 +12,7 @@ C:Consumer
 |             |     |             |     |   MESSAGE   |
 | FILEREADER  | ==> | LINEPARSER  | ==> |   SENDER    |=>EMAIL
 |             |     |             |     |             |
-|             |	    |      X      |     |             |=>ALL
+|             |	    |             |     |      X      |=>ALL
 +-------------+     +-------------+     +-------------+
  File -> String      String -> User     User -> Message
         |             |        |           |
